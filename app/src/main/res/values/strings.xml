@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SavedStateHandleApp</string>
+    <string name="result_api_title">First</string>
+    <string name="result_api_text">Null</string>
+    <string name="second_title">Second</string>
+    <string name="second_text">Null</string>
+    <string name="back_arg">Back arg</string>
+    <string name="forward">➔</string>
+    <string name="airplane_on">🛫</string>
+    <string name="airplane_off">🛬</string>
+</resources>
